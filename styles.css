@@ -35,3 +35,12 @@ ul {
     font-weight: bold;
     font-size: 28px;
 }
+
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px 48px;
+    background-color: #1f2937;
+    color: #f9faf8;
+}
